@@ -1,5 +1,5 @@
 /* 
- * File:   main.cpp
+ * File:   gpio.cpp
  * Author: andre
  *
  * Created on 17. juli 2015, 21:54
