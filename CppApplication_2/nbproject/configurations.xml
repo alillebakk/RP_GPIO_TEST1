@@ -8,6 +8,7 @@
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
                    projectFiles="true">
+      <itemPath>../../../../Downloads/bcm2835-1.42/src/bcm2835.c</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
@@ -36,6 +37,11 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="../../../../Downloads/bcm2835-1.42/src/bcm2835.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
       <item path="gpio.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -59,6 +65,11 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="../../../../Downloads/bcm2835-1.42/src/bcm2835.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
       <item path="gpio.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
