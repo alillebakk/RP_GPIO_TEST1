@@ -4,6 +4,60 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <logicalFolder name="freetds" displayName="freetds" projectFiles="true">
+      </logicalFolder>
+      <logicalFolder name="include" displayName="include" projectFiles="true">
+        <logicalFolder name="freetds" displayName="freetds" projectFiles="true">
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/Makefile.am</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/Makefile.in</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/bytes.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/configs.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/convert.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/data.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/enum_cap.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/iconv.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/odbc.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/popvis.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/proto.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/pushvis.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/server.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/stream.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/string.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/sysdep_private.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/tds.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/thread.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/time.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/tls.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/version.h</itemPath>
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/version.h.in</itemPath>
+        </logicalFolder>
+        <logicalFolder name="replacements"
+                       displayName="replacements"
+                       projectFiles="true">
+          <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/replacements/readpassphrase.h</itemPath>
+        </logicalFolder>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/Makefile.am</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/Makefile.in</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/bkpublic.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/config.h.in</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/cspublic.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/cstypes.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/ctlib.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/ctpublic.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/dblib.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/des.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/fakepoll.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/hmac_md5.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/md4.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/md5.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/odbcss.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/replacements.h</itemPath>
+        <itemPath>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/tds_sysdep_public.h.in</itemPath>
+      </logicalFolder>
+      <logicalFolder name="replacements"
+                     displayName="replacements"
+                     projectFiles="true">
+      </logicalFolder>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -14,6 +68,7 @@
                    displayName="Source Files"
                    projectFiles="true">
       <itemPath>gpio.cpp</itemPath>
+      <itemPath>sql.c</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
                    displayName="Test Files"
@@ -27,6 +82,9 @@
       <itemPath>Makefile</itemPath>
     </logicalFolder>
   </logicalFolder>
+  <sourceRootList>
+    <Elem>../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include</Elem>
+  </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
     <conf name="Debug" type="1">
@@ -36,13 +94,220 @@
         <rebuildPropChanged>false</rebuildPropChanged>
       </toolsSet>
       <compileType>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerLibLibItem>COPYING.LIB</linkerLibLibItem>
+          </linkerLibItems>
+        </linkerTool>
       </compileType>
       <item path="../../../../Downloads/bcm2835-1.42/src/bcm2835.c"
             ex="false"
             tool="0"
             flavor2="0">
       </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/Makefile.am"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/Makefile.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/bkpublic.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/config.h.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/cspublic.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/cstypes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/ctlib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/ctpublic.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/dblib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/des.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/fakepoll.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/Makefile.am"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/Makefile.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/bytes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/configs.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/convert.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/data.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/enum_cap.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/iconv.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/odbc.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/popvis.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/proto.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/pushvis.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/server.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/stream.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/string.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/sysdep_private.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/tds.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/thread.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/time.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/tls.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/version.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/version.h.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/hmac_md5.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/md4.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/md5.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/odbcss.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/replacements.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/replacements/readpassphrase.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/tds_sysdep_public.h.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
       <item path="gpio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sql.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -70,7 +335,209 @@
             tool="0"
             flavor2="0">
       </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/Makefile.am"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/Makefile.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/bkpublic.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/config.h.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/cspublic.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/cstypes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/ctlib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/ctpublic.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/dblib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/des.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/fakepoll.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/Makefile.am"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/Makefile.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/bytes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/configs.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/convert.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/data.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/enum_cap.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/iconv.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/odbc.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/popvis.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/proto.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/pushvis.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/server.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/stream.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/string.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/sysdep_private.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/tds.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/thread.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/time.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/tls.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/version.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/freetds/version.h.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/hmac_md5.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/md4.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/md5.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/odbcss.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/replacements.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/replacements/readpassphrase.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../../../../Downloads/freetds-patched.tar/freetds-patched/freetds-0.95.18/include/tds_sysdep_public.h.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
       <item path="gpio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sql.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
   </confs>

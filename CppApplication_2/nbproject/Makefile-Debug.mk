@@ -36,7 +36,8 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 # Object Files
 OBJECTFILES= \
 	${OBJECTDIR}/_ext/1481873261/bcm2835.o \
-	${OBJECTDIR}/gpio.o
+	${OBJECTDIR}/gpio.o \
+	${OBJECTDIR}/sql.o
 
 
 # C Compiler Flags
@@ -53,7 +54,7 @@ FFLAGS=
 ASFLAGS=
 
 # Link Libraries and Options
-LDLIBSOPTIONS=
+LDLIBSOPTIONS=-lCOPYING.LIB
 
 # Build Targets
 .build-conf: ${BUILD_SUBPROJECTS}
@@ -72,6 +73,11 @@ ${OBJECTDIR}/gpio.o: gpio.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/gpio.o gpio.cpp
+
+${OBJECTDIR}/sql.o: sql.c 
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.c) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/sql.o sql.c
 
 # Subprojects
 .build-subprojects:
