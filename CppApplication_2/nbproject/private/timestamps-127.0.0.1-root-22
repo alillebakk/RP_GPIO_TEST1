@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Wed Jul 22 15:18:09 CEST 2015
 c\:\\users\\andre.htl-eg\\downloads\\freetds-patched.tar\\freetds-patched\\freetds-0.95.18\\include\\freetds\\popvis.h=c1430848499000
 c\:\\users\\andre.htl-eg\\downloads\\freetds-patched.tar\\freetds-patched\\freetds-0.95.18\\include\\freetds\\pushvis.h=c1430848499000
@@ -66,6 +67,12 @@ c\:\\users\\andre.htl-eg\\downloads\\freetds-patched.tar\\freetds-patched\\freet
 c\:\\users\\andre.htl-eg\\documents\\github\\rp_gpio_test1\\cppapplication_2\\nbproject\\private\\makefile-variables.mk=c1437162846646
 c\:\\users\\andre.htl-eg\\documents\\github\\rp_gpio_test1\\cppapplication_2\\makefile=c1437162846736
 c\:\\users\\andre.htl-eg\\documents\\github\\rp_gpio_test1\\cppapplication_2\\main.cpp=c1437164173198
+=======
+#Fri Jul 17 22:17:41 CEST 2015
+c\:\\users\\andre.htl-eg\\documents\\github\\rp_gpio_test1\\cppapplication_2\\nbproject\\private\\makefile-variables.mk=c1437162846646
+c\:\\users\\andre.htl-eg\\documents\\github\\rp_gpio_test1\\cppapplication_2\\makefile=c1437162846736
+c\:\\users\\andre.htl-eg\\documents\\github\\rp_gpio_test1\\cppapplication_2\\main.cpp=c1437164173198
+>>>>>>> parent of 7e73c3f... lagt til print tekst
 c\:\\users\\andre.htl-eg\\documents\\github\\rp_gpio_test1\\cppapplication_2\\nbproject\\makefile-release.mk=c1437164243458
 c\:\\users\\andre.htl-eg\\documents\\github\\rp_gpio_test1\\cppapplication_2\\nbproject\\project.xml=c1437164243508
 c\:\\users\\andre.htl-eg\\documents\\github\\rp_gpio_test1\\cppapplication_2\\gpio.cpp=c1437164173198

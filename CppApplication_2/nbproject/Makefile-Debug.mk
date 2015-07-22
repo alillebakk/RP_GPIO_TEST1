@@ -36,10 +36,13 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 # Object Files
 OBJECTFILES= \
 <<<<<<< HEAD
+<<<<<<< HEAD
 	${OBJECTDIR}/_ext/1481873261/bcm2835.o \
 	${OBJECTDIR}/gpio.o \
 	${OBJECTDIR}/sql.o
 =======
+=======
+>>>>>>> parent of 7e73c3f... lagt til print tekst
 	${OBJECTDIR}/gpio.o
 >>>>>>> parent of 7e73c3f... lagt til print tekst
 
