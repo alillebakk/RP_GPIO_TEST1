@@ -62,7 +62,6 @@
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
                    projectFiles="true">
-      <itemPath>../../../../Downloads/bcm2835-1.42/src/bcm2835.c</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
@@ -100,6 +99,7 @@
           </linkerLibItems>
         </linkerTool>
       </compileType>
+<<<<<<< HEAD
       <item path="../../../../Downloads/bcm2835-1.42/src/bcm2835.c"
             ex="false"
             tool="0"
@@ -305,6 +305,8 @@
             tool="3"
             flavor2="0">
       </item>
+=======
+>>>>>>> parent of 7e73c3f... lagt til print tekst
       <item path="gpio.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="sql.c" ex="false" tool="0" flavor2="0">
@@ -330,6 +332,7 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+<<<<<<< HEAD
       <item path="../../../../Downloads/bcm2835-1.42/src/bcm2835.c"
             ex="false"
             tool="0"
@@ -535,6 +538,8 @@
             tool="3"
             flavor2="0">
       </item>
+=======
+>>>>>>> parent of 7e73c3f... lagt til print tekst
       <item path="gpio.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="sql.c" ex="false" tool="0" flavor2="0">

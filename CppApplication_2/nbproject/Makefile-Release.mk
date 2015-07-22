@@ -35,9 +35,13 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 
 # Object Files
 OBJECTFILES= \
+<<<<<<< HEAD
 	${OBJECTDIR}/_ext/1481873261/bcm2835.o \
 	${OBJECTDIR}/gpio.o \
 	${OBJECTDIR}/sql.o
+=======
+	${OBJECTDIR}/gpio.o
+>>>>>>> parent of 7e73c3f... lagt til print tekst
 
 
 # C Compiler Flags
@@ -63,11 +67,6 @@ LDLIBSOPTIONS=
 ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cppapplication_2: ${OBJECTFILES}
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
 	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cppapplication_2 ${OBJECTFILES} ${LDLIBSOPTIONS}
-
-${OBJECTDIR}/_ext/1481873261/bcm2835.o: ../../../../Downloads/bcm2835-1.42/src/bcm2835.c 
-	${MKDIR} -p ${OBJECTDIR}/_ext/1481873261
-	${RM} "$@.d"
-	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/1481873261/bcm2835.o ../../../../Downloads/bcm2835-1.42/src/bcm2835.c
 
 ${OBJECTDIR}/gpio.o: gpio.cpp 
 	${MKDIR} -p ${OBJECTDIR}
